@@ -1,6 +1,6 @@
 ## Skills
 
-커스텀 검증 및 유지보수 스킬은 `.claude/skills/`에 정의되어 있습니다.
+커스텀 검증 및 유지보수 스킬은 `.claude/skills/`에 정의되어 있습니다. 
 
 | Skill | Purpose |
 |-------|---------|
